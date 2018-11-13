@@ -1,5 +1,6 @@
 # html5-orientation-notify
-HTML Orientation Notifier
+HTML5 Orientation Notifier
+- With this code you can detect your current Orientation Mode.
 
 please do not forget to include jQuery.
 
