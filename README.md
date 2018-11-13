@@ -29,3 +29,5 @@ var mvscreen = window.orientation;
 
 </script>
 ```
+
+Code by Mudzaedin V.
